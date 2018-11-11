@@ -1,0 +1,7 @@
+Splash screen - 10 sec
+Register page - facebook/Google/Manual
+Login page - facebook/Google/Manual
+Home page - Random Users Flashing 
+Profile page - Profile photo/ name / summary / audio call, video call and text msg buttons
+Caller page - audio/video/text msg window
+Settings page - theme/notification/backup/restrictions/terms/about us/copyright
